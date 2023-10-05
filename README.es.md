@@ -6,6 +6,8 @@
 - Utilizar los conocimientos adquiridos en el prework para resolver las cuestiones planteadas.
 - Analizar, si fuera necesario, otras cuestiones.
 
+Hola
+
 ## 🌱  Cómo iniciar este proyecto
 
 Sigue las siguientes instrucciones:
